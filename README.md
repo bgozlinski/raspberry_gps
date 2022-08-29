@@ -103,7 +103,7 @@ $ sh launcher.sh
 ```console
 $ sudo crontab -e
 
-* * * * * sh /home/pi/launcher.sh
+* * * * * sh /home/pi/raspberry_gps/launcher.sh
 ```
 
 * I2C
