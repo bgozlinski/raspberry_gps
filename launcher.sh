@@ -10,7 +10,7 @@
 
 if ! pgrep -f 'main.py'
 then
-    python3 /home/pi/iris/tracker/main.py 2>> errlogs.txt
+    python3 /home/pi/raspberry_gps/tracker/main.py 2>> errlogs.txt
 
 # run the test, remove the two lines below afterwards
 else
